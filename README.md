@@ -77,16 +77,13 @@ I'm a **Full Stack Developer** who builds fast, secure and scalable web applicat
   <img src="https://streak-stats.demolab.com/?user=KrishPatel511&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishPatel511&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishPatel511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishPatel511/KrishPatel511/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/KrishPatel511/KrishPatel511/output/github-snake.svg" alt="Contribution Snake" width="100%"/>
+  </picture>
 </p>
 
 ---
