@@ -11,10 +11,9 @@
 
 <p align="center">
   <a href="mailto:krishpatel51151@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Replace YOUR-LINKEDIN with your LinkedIn username, or delete this line -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- Replace with your portfolio URL, or delete this line -->
-  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/krishpatel511/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.krishpatel.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/KrishPatel511/KrishPatel511/blob/main/Patel_Krish.pdf"><img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
   <a href="https://github.com/KrishPatel511"><img src="https://komarev.com/ghpvc/?username=KrishPatel511&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views"/></a>
 </p>
 
