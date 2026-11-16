@@ -135,9 +135,9 @@ const krish = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/KrishPatel511/expense-tracker-android/pull/3) in [KrishPatel511/expense-tracker-android](https://github.com/KrishPatel511/expense-tracker-android)
-2. 🎉 Merged PR [#2](https://github.com/KrishPatel511/expense-tracker-android/pull/2) in [KrishPatel511/expense-tracker-android](https://github.com/KrishPatel511/expense-tracker-android)
-3. 💪 Opened PR [#3](https://github.com/KrishPatel511/expense-tracker-android/pull/3) in [KrishPatel511/expense-tracker-android](https://github.com/KrishPatel511/expense-tracker-android)
+1. 🎉 Merged PR [#2](https://github.com/KrishPatel511/learning-journal/pull/2) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
+2. 💪 Opened PR [#2](https://github.com/KrishPatel511/learning-journal/pull/2) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
+3. 🎉 Merged PR [#1](https://github.com/KrishPatel511/learning-journal/pull/1) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
 <!--END_SECTION:activity-->
 
 </details>
