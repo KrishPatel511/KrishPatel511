@@ -135,9 +135,9 @@ const krish = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KrishPatel511/learning-journal/pull/2) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
-2. 💪 Opened PR [#2](https://github.com/KrishPatel511/learning-journal/pull/2) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
-3. 🎉 Merged PR [#1](https://github.com/KrishPatel511/learning-journal/pull/1) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
+1. 🎉 Merged PR [#4](https://github.com/KrishPatel511/learning-journal/pull/4) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
+2. 💪 Opened PR [#4](https://github.com/KrishPatel511/learning-journal/pull/4) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
+3. 🎉 Merged PR [#3](https://github.com/KrishPatel511/learning-journal/pull/3) in [KrishPatel511/learning-journal](https://github.com/KrishPatel511/learning-journal)
 <!--END_SECTION:activity-->
 
 </details>
